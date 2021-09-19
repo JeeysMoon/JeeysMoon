@@ -1,29 +1,33 @@
+<h1 align='center'>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Jennifer! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+</h1>
 
-# Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **I'm Jennifer!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p align='center'>
+ :computer: I'm beginner Developer!</p>
 
+<p align='center'>
+ :curly_haired_woman: 25y</p>
+ 
+<p align='center'>
+:house_with_garden: I’m from Brazil. </p>
 
-:computer: I'm beginner Developer!
+ <p align='center'>
+:books: Sci-fi | Romance | South African History | Biographies </p>
 
-:curly_haired_woman: 25y
+ <p align='center'> 
+:outbox_tray: 2021 Goals: Create a new project and find a new job.</p>
 
-:house_with_garden: I’m from Brazil.
+<h2 align='center'>
+Learning </h2>
 
-:books: Sci-fi | Romance | South African History | Biographies
-
-:outbox_tray: 2021 Goals: Create a new project and find a new job.
-
-## Learning 
 
 ![Anurag's GitHub stats](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Anurag's GitHub stats](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  
-
-## About me
-
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeysmoon&show_icons=true&theme=radical)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jeeysmoon&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
 <br>
@@ -37,4 +41,3 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
